@@ -2,12 +2,12 @@
 name: Brittany Chiang
 title: Brittany Chiang | Front End Software Engineer
 description: Design-minded, detail oriented software engineer passionate about combining beautiful code with beautiful design.
-url: http://brittanychiang.com
-baseurl: ""
+url: http://brittanychiang.com/
+baseurl: "/v2"
 email: brittany.chiang@gmail.com
-cover: http://brittanychiang.com/img/og.jpg
-logo: http://brittanychiang.com/img/logo-black.png
-resume: http://brittanychiang.com/resume.pdf
+cover: http://brittanychiang.com/v2/img/og.jpg
+logo: http://brittanychiang.com/v2/img/logo-black.png
+resume: http://brittanychiang.com/v2/resume.pdf
 social:
   - title: email
     url: mailto:brittany.chiang@gmail.com
