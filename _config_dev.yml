@@ -1,0 +1,45 @@
+# Site settings
+name: Brittany Chiang
+title: Brittany Chiang | Front End Software Engineer
+description: Design-minded, detail oriented software engineer passionate about combining beautiful code with beautiful design.
+url: http://brittanychiang.com/
+baseurl: ""
+email: brittany.chiang@gmail.com
+cover: http://brittanychiang.com/v2/img/og.jpg
+logo: http://brittanychiang.com/v2/img/logo-black.png
+resume: http://brittanychiang.com/v2/resume.pdf
+social:
+  - title: email
+    url: mailto:brittany.chiang@gmail.com
+  - title: twitter
+    url: https://twitter.com/bchiang7
+  - title: instagram
+    url: https://instagram.com/bchiang7
+  - title: codepen
+    url: http://codepen.io/bchiang7
+  - title: github
+    url: https://github.com/bchiang7
+  - title: linkedin
+    url: https://www.linkedin.com/in/bchiang7
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gemspec"
+  - "README.md"
+  - "node_modules"
+  - "build"
+  - "gulpfile.js"
+  - "package.json"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+plugins:
+  - jekyll-minifier
+  - jekyll-sitemap
